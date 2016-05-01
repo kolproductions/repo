@@ -5,6 +5,7 @@
 
 # Local - gitweb
  via HTTPS      git clone https://user@host/git/testing.git
- via  SSH       git clone git@host:repositoies/gitolite-admin.git 
-                git clone git@daytona:repositories/linux.git
+  via  SSH       git clone git@host:repositoies/gitolite-admin.git
+                 git clone git@daytona:repositories/linux.git
+ 
  
